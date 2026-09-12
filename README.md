@@ -243,3 +243,6 @@ This repository serves as the official landing page for Jewel Quest III. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Jewel Quest III today!**
+
+---
+**Last updated:** 2026-09-12 07:43:46 UTC
